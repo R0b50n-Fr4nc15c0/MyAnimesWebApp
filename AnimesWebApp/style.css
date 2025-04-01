@@ -1,0 +1,23 @@
+body
+{
+    background-image: url('https://wallpapers.com/images/hd/cool-anime-background-v0gxwu7xfch6l3tc.jpg'); /*Este e o endereço da imagem, apenas copiei e colei aqui. */
+    background-size: cover;/*Aqui eu usei o 'cover' nesse 'background-size' para que a imagem ocupe todo o espaço na tela da Web.*/
+    background-position: center;
+    background-repeat: no-repeat;/*usei para evitar repetições de imagem na Web*/
+    color: rgb(0, 21, 77);
+    font-family: 'Times New Roman', Times, serif;/*Fonte do texto...*/
+    text-align: left;
+}
+
+ul
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsd7jMkX9C0s4u0tKuvMVf47hBi0mBPcCtIA&s');
+    background-position: center;
+    border-radius: 10px;
+    border: rgb(1, 78, 59);
+    border-style:dashed;
+    width: 180px;
+    height: 450px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 23, 29);
+}
